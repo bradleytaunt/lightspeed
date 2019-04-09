@@ -4,9 +4,7 @@ permalink:           pretty
 # Setup
 title:               'Light Speed'
 url:                 https://lightspeed.netlify.com
-tagline:             'Jekyll theme with a <a href="">perfect Lighthouse score</a>'
-paginate:            6
-paginate_path:       "/page:num/"
+tagline:             'Jekyll theme with a perfect Lighthouse score'
 baseurl:             ""
 
 # Includes
