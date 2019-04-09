@@ -1,0 +1,36 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               'Light Speed'
+url:                 https://lightspeed.netlify.com
+tagline:             'Jekyll theme with a <a href="">perfect Lighthouse score</a>'
+paginate:            6
+paginate_path:       "/page:num/"
+baseurl:             ""
+
+# Includes
+include:
+  - _redirects
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# Cloudinary
+#cloudinary:
+#  cloud_name: your cloudinary username
+
+# About/contact
+author:
+  name:              Bradley Taunt
+  url:               https://twitter.com/bradtaunt
+  email:             bradleytaunt@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/bradleytaunt/lightspeed
