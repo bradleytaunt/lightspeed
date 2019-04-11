@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using the Web Icons
+description: Post about using web icons
 ---
 
 This template uses [Typicons][ty] web font, provided by [Fontello][fo] font bundling service. It allows you to quickly add nice icons into your pages by using css tags. 

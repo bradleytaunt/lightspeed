@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example of all elements
+description: Post showcasing all elements
 ---
 
 # h1 Heading

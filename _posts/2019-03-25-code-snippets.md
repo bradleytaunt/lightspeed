@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code Snippets
+description: Post about code snippets
 ---
 
 Whenever you need to post a code snippet, use the liquid tags `hilight` and `endhilight` like this:

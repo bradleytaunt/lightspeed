@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!
+description: Post about hello world
 ---
 
 Hello World!
