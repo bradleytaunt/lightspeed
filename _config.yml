@@ -28,3 +28,6 @@ author:
 version:             1.0.0
 github:
   repo:              https://github.com/bradleytaunt/lightspeed
+  
+include:
+  - _redirects
